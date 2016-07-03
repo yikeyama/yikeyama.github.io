@@ -216,7 +216,7 @@ section h2
     left: 0;
     display: none;
     height: 100%;
-    color: #000000;
+    color: #fff;
     background-color: rgba(0, 0, 0, .7);
 }
 #works .works-box a .works-box-inner div
@@ -259,7 +259,7 @@ section h2
 }
 #works .works-box a .works-box-inner .button-readmore:hover
 {
-    background-color: #ffffff;
+    background-color: #ffdab9;
 }
 #works .works-box a:hover .works-box-inner
 {
